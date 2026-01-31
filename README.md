@@ -27,3 +27,19 @@ for EVM smart contract engineering roles.
 - `PaymentEscrow.sol`  
   Secure escrow contract demonstrating role separation,
   controlled fund release, and refund logic.
+  # Decentralized Todo App
+
+This is a simple blockchain-based Todo application built using Solidity and EVM concepts.
+
+## Features
+- Add tasks
+- Store tasks on blockchain
+- Immutable and transparent
+
+## Tech Stack
+- Solidity
+- Ethereum Virtual Machine (EVM)
+- HTML & JavaScript
+
+## Purpose
+Learning and demonstrating basic Web3 development skills.
