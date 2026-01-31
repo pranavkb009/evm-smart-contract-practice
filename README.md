@@ -1,13 +1,26 @@
-# EVM Smart Contract Practice
+# SecureVault – EVM Smart Contract Practice
 
-This repository contains my learning and practice work related to
-Solidity and EVM-based smart contracts.
+This repository contains Solidity-based smart contract implementations
+focused on security, correctness, and clean design.
 
-I am currently building foundational understanding of:
-- Solidity basics
-- Smart contract structure
-- Access control and safety checks
-- Common smart contract vulnerabilities (conceptual)
+## Overview
+`SecureVault` is a minimal Ether vault contract that demonstrates:
+- Secure access control
+- Safe Ether deposits and withdrawals
+- Proper use of events
+- Checks-Effects-Interactions pattern
 
-This repository will be updated with relevant practice code and
-task-specific submissions.
+## Key Concepts Demonstrated
+- Solidity ^0.8.x overflow safety
+- Access modifiers
+- Secure external calls
+- State transparency via view functions
+
+## Security Considerations
+- Unauthorized withdrawals are prevented
+- Balance checks are enforced
+- External calls are made after state effects
+
+## Purpose
+This repository is part of my preparation and technical screening work
+for EVM smart contract engineering roles.
