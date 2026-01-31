@@ -24,3 +24,6 @@ focused on security, correctness, and clean design.
 ## Purpose
 This repository is part of my preparation and technical screening work
 for EVM smart contract engineering roles.
+- `PaymentEscrow.sol`  
+  Secure escrow contract demonstrating role separation,
+  controlled fund release, and refund logic.
