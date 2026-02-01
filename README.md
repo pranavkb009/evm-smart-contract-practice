@@ -43,3 +43,18 @@ This is a simple blockchain-based Todo application built using Solidity and EVM 
 
 ## Purpose
 Learning and demonstrating basic Web3 development skills.
+# Pranav KB – Full-Stack Developer (MERN)
+
+Professional portfolio showcasing MERN stack projects, skills, and work style.
+
+## Tech Stack
+- React, HTML, CSS, JavaScript
+- Node.js, Express
+- MongoDB
+- JWT Authentication
+
+## Live Preview
+(Deploy using GitHub Pages or Netlify)
+
+## GitHub
+https://github.com/pranavkb009
